@@ -4,7 +4,7 @@ import numpy as np
 
 total_count = 0
 counts = []
-sample_size = 10000
+sample_size = 10
 
 for _ in range (sample_size): 
     counter = 0
